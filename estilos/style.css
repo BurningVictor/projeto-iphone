@@ -29,11 +29,11 @@ section#iphone {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    width: 25%;  
-}
 
-section#iphone img.iphone {
-    width: 60%;
+    height: 627px;
+    width: 311px;  
+    background: url('../imagens/frame-iphone.png') no-repeat;
+    background-size: cover;
 }
 
 section#redes-sociais{
@@ -45,4 +45,12 @@ section#redes-sociais img.redes-sociais {
     width: 5%; 
     margin: 15px;
     border-radius: 250px; 
+}
+
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 471px;
 }
