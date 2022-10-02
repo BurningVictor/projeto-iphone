@@ -1,2 +1,2 @@
 # projeto-iphone
- Localizado no módulo 4 do curso de Html e CSS do professor Gustavo Guanabara.
+ Localizado no Módulo 4 do Curso de Html e CSS do Professor Gustavo Guanabara.
